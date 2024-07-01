@@ -15,7 +15,7 @@ const StyledHeaderContainer = styled.header`
   align-items: center;
   z-index: 1000;
   border-bottom: 1px solid #d9d9d9;
-  padding: 20px;
+  padding: 20px 100px;
 `;
 const StyledLogo = styled.img`
   width: 180px;

@@ -32,11 +32,11 @@
 
 ## ✅ 기술 스택
 
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <br>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled components&logoColor=white">
+
+  <img src="https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black">
+
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 
 <br><br>
 
@@ -58,7 +58,7 @@
 <br><br>
   
 #### 3. 
-각 게시물 내용은 은 현대적인 감각을 살린 디자인으로, 시각적으로 매력적이고 정보 전달도 효과적으로 이루어지도록 구성되어 있습니다.  
+각 게시물 내용은 시각적으로 매력적이고 정보 전달도 효과적으로 이루어지도록 구성되어 있습니다.  
 <img src="https://mjoukzlxxqktusvcfmcy.supabase.co/storage/v1/object/public/profile_image/readme/5.png" alt="게시물 캡쳐 이미지" width="100%">
 <br><br>
   
@@ -68,7 +68,7 @@
 <br><br>
 #### 5. 
 마이페이지에는 사용자의 닉네임, 이메일 주소, 그리고 프로필 이미지를 나타내는 세 가지 요소가 표시되고 있습니다
-<img src="[https://mjoukzlxxqktusvcfmcy.supabase.co/storage/v1/object/public/profile_image/readme/4.PNG]" alt="리뷰 수정 캡쳐 삭제" width="100%">
+<img src="https://mjoukzlxxqktusvcfmcy.supabase.co/storage/v1/object/public/profile_image/readme/4.PNG" alt="리뷰 수정 캡쳐 삭제" width="100%">
 <br><br>
 
 ## 💻 팀원
@@ -76,10 +76,15 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>팀장 : 박유영</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>팀원 : 국민영</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>팀원 : 임다은</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>팀원 : 한종섭</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/Park-Yuyeong"><img src="https://avatars.githubusercontent.com/u/54975374?v=4" width="100px;" alt=""/><br /><sub><b>팀장 : 박유영</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/minyoungKuk"><img src="https://avatars.githubusercontent.com/u/75466519?v=4" width="100px;" alt=""/><br /><sub><b>팀원 : 국민영</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/pitapat428"><img src="https://avatars.githubusercontent.com/u/167290167?v=4" width="100px;" alt=""/><br /><sub><b>팀원 : 임다은</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/hanjongseop"><img src="https://avatars.githubusercontent.com/u/165746887?v=4" width="100px;" alt=""/><br /><sub><b>팀원 : 한종섭</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
+
+<br/>
+<br/>
+
+### [🌟Link](https://recipe-git-dev-minyoungkuks-projects.vercel.app)
